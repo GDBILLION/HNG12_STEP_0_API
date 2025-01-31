@@ -30,3 +30,4 @@ C:\Users\user\source\repos\HNG12API\obj\Debug\net8.0\refint\HNG12API.dll
 C:\Users\user\source\repos\HNG12API\obj\Debug\net8.0\HNG12API.pdb
 C:\Users\user\source\repos\HNG12API\obj\Debug\net8.0\HNG12API.genruntimeconfig.cache
 C:\Users\user\source\repos\HNG12API\obj\Debug\net8.0\ref\HNG12API.dll
+C:\Users\user\source\repos\HNG12API\obj\Debug\net8.0\HNG12API.sourcelink.json

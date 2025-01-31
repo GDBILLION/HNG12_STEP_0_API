@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace HNG12API.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("hng")]
     [ApiController]
     public class HNGController : ControllerBase
     {
@@ -14,7 +14,7 @@ namespace HNG12API.Controllers
             {
                 email = "godwindpius@gmail.com",
                 current_datetime = DateTime.UtcNow.ToString("yyyy-MM-ddTHH:mm:ssZ"),
-                github_url = "https://github.com/GDBILLION/HNG12_STEP_0_API.git"
+                github_url = "https://github.com/GDBILLION/HNG12_STEP_0_API"
             };
 
             return Ok(response);

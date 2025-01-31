@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\HNG12API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ED1836F6-B6F6-4C72-8CDE-E7F0BA80F33A}|Solution Items{ED1836F6-B6F6-4C72-8CDE-E7F0BA80F33A}|C:\\Users\\user\\source\\repos\\HNG12API\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{ED1836F6-B6F6-4C72-8CDE-E7F0BA80F33A}|Solution Items{ED1836F6-B6F6-4C72-8CDE-E7F0BA80F33A}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7E83A5-2D98-495A-AAB9-4D15D2EE5DAD}|HNG12API.csproj|c:\\users\\user\\source\\repos\\hng12api\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{1E7E83A5-2D98-495A-AAB9-4D15D2EE5DAD}|HNG12API.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1E7E83A5-2D98-495A-AAB9-4D15D2EE5DAD}|HNG12API.csproj|c:\\users\\user\\source\\repos\\hng12api\\controllers\\hngcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E7E83A5-2D98-495A-AAB9-4D15D2EE5DAD}|HNG12API.csproj|solutionrelative:controllers\\hngcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7E83A5-2D98-495A-AAB9-4D15D2EE5DAD}|HNG12API.csproj|c:\\users\\user\\source\\repos\\hng12api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1E7E83A5-2D98-495A-AAB9-4D15D2EE5DAD}|HNG12API.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E7E83A5-2D98-495A-AAB9-4D15D2EE5DAD}|HNG12API.csproj|c:\\users\\user\\source\\repos\\hng12api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,11 +30,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HNG12API\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HNG12API\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHgSURBVEhLtZVdTsJAFIWroTyDK3ELJuCbsA1ZhQRFRETkV6yV8AAsgAI\u002BugW3wAr0RUop7Tj3dmagtLXFhJOc3mEynXu\u002BSWmlg4oQcsSGqOFwSKcIzAcY7rFZdeZkWf42DOMsl7v8ZNsEazAYEMuyXF5zr7nXWG3bJqPRiMznc6Kqb1\u002BtdueUbePSMasoSASiN0sW2AJbwrSRMKwBJZNJKZVOJeJx\u002BaPRbHma\u002BDbAqzOMpBPa5DydxiZsSijGKoo30MZjrH8pm81iVRQFKygmxxNs6K9\u002Bv4/nvlqZ1CticBuOl8IGWS4NogsviWmuSe2p7uH2EMAKTQsn2FUmkxUnEKher4dPjH9ymjogva47BNXHWhgBXCRpomnOxB6KRKCqKhJsznoneUD6BSOoPFSjEUwnByJQlFf8l7rTO6ndyalZcm7TNEn5vhJG4CD8h\u002BAikwkn6HZf8F3jSSu8OfNt/yx0sqIEpbtyOAGsmE4nzsQeikTQ7jwTkxKItCyxX2qenBsIirelcAJAmB2KoNlq4/Psl1Z4K/UuQeGmGIGA6n02xbqPgIBuwH4FqN5o4vMMKYOSBhkI8oVrTwfPBwdWxOQYWt7D/P5duT768D7HJhFtU9MBVj5XyF\u002B59jywJOkX7ucXnGOxDX8AAAAASUVORK5CYII=",
+              "WhenOpened": "2025-01-31T12:39:31.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HNG12API\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HNG12API\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-31T11:51:43.405Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HNG12API\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\HNG12API\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-01-31T10:19:42.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HNG12API\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -30,18 +80,17 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T08:45:58.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T08:45:58.028Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "HNGController.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\HNG12API\\Controllers\\HNGController.cs",
               "RelativeDocumentMoniker": "Controllers\\HNGController.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\HNG12API\\Controllers\\HNGController.cs",
               "RelativeToolTip": "Controllers\\HNGController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-31T08:43:13.313Z",
               "EditorCaption": ""
