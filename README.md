@@ -1,6 +1,6 @@
 # HNG12_STEP_0_API
 email: godwindpius@gmail.com;
-github: https://github.com/GDBILLION/HNG12_STEP_0_API;
+github: https://github.com/GDBILLION/HNG12_STEP_0_API.git;
 currentDateAndTime: 2025-01-31T09:13:19Z;
 
 **API Endpoint**
