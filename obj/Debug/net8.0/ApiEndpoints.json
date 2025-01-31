@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "HNG12API.Controllers.HNGController",
+    "Method": "GetDetails",
+    "RelativePath": "api/HNG",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
